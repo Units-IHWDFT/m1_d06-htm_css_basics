@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 100;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.hero {
+    background-color: rgb(255, 0, 0);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.hero h1 {
+    color: white;
+    text-align: center;
+}
+
+.hero p {
+    text-align: center;
+    color: white;
+}
+
+.show-border {
+    border-width: 3px;
+    border-style: solid;
+    border-color: red;
+}

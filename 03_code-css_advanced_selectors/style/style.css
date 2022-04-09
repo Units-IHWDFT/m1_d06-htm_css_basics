@@ -1,0 +1,41 @@
+li {
+  font-size: 2rem;
+}
+
+.student-name {
+  color: red;
+}
+
+ol em {
+  color: green;
+}
+
+ul > li {
+  color: red;
+}
+
+ul em {
+  color: orange;
+}
+
+ol > ul > li {
+  color: blue;
+}
+
+.yanis {
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+
+.yanis + li {
+  text-transform: uppercase;
+}
+
+.yanis:hover,
+.yanis + li:hover {
+  font-size: 6rem;
+}
+
+li.special {
+  font-size: 3rem;
+}

@@ -1,0 +1,24 @@
+div {
+  width: 150px;
+}
+
+p span {
+  color: white;
+  background-color: lightblue;
+}
+
+.red-box {
+  background-color: red;
+}
+
+.blue-box {
+  background-color: lightgreen;
+}
+
+.italics {
+  font-style: italic;
+}
+
+#yellow-box {
+  background-color: rgba(255, 255, 0, 1);
+}
