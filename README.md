@@ -5,4 +5,4 @@
 ## Contents
 > HTML | Basic web page
 
-[01_class-html_basic_import_css](/01_class-html_basic_import_css)
+[01_class-html_basic_import_css](./01_class-html_basic_import_css)
