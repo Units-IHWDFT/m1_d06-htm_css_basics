@@ -1,0 +1,22 @@
+div {
+  height: 150px;
+  width: 150px;
+}
+
+.main-div {
+  height: 80%;
+  width: 90%;
+  border: 5px solid black;
+}
+
+.red-box {
+  background-color: red;
+}
+
+.blue-box {
+  background-color: rgb(0, 0, 255);
+}
+
+#yellow-box {
+  background-color: rgba(255, 255, 0, 1);
+}
