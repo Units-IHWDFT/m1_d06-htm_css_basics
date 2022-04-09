@@ -6,3 +6,15 @@
 > HTML | Basic web page
 
 [01_class-html_basic_import_css](./01_class-html_basic_import_css)
+
+[02_class-css_selectors](./02_class-css_selectors)
+
+[03_class-css_advanced_selectors](./03_class-css_advanced_selectors)
+
+[04_class-css_box_model](./04_class-css_box_model)
+
+[05_class-css_transitions](./05_class-css_transitions)
+
+[06_class-css_animations](./06_class-css_animations)
+
+[07_class-css_simulated_buttons](./07_class-css_simulated_buttons)
